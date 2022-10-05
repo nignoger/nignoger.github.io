@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pronounciation on Czech Grammar</title>
-    <link>nignoger.github.io/tags/pronounciation/</link>
+    <link>/tags/pronounciation/</link>
     <description>Recent content in pronounciation on Czech Grammar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="nignoger.github.io/tags/pronounciation/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/tags/pronounciation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The alphabet</title>
-      <link>nignoger.github.io/alphabet/</link>
+      <link>/alphabet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>nignoger.github.io/alphabet/</guid>
+      <guid>/alphabet/</guid>
       <description>Chapter 6&#34;The alphabet&#34; </description>
     </item>
     
     <item>
       <title>Intonation</title>
-      <link>nignoger.github.io/intonation/</link>
+      <link>/intonation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>nignoger.github.io/intonation/</guid>
+      <guid>/intonation/</guid>
       <description>Chapter 5&#34;Intonation – intonace&#34; </description>
     </item>
     
     <item>
       <title>Consonants</title>
-      <link>nignoger.github.io/consonants/</link>
+      <link>/consonants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>nignoger.github.io/consonants/</guid>
+      <guid>/consonants/</guid>
       <description>Chapter 4&#34;Consonants – souhlásky&#34; Consonant letters b, d, f, g (as in ‘good’), h, k, l, m, n, p, s (as in ‘sun’), t (as in ‘stop’), x and z are pronounced much the same as in English.
 However:
 K, P, and T lack the typical English ‘post-aspiration’, a slight puff of air following them, unless they come at the end of a word:
@@ -38,10 +38,10 @@ kilo, ruka, pil, koupil, ten, to, ta</description>
     
     <item>
       <title>Vowels</title>
-      <link>nignoger.github.io/vowels/</link>
+      <link>/vowels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>nignoger.github.io/vowels/</guid>
+      <guid>/vowels/</guid>
       <description>Chapter 3&#34;Vowels – samohlásky&#34; Vowel letters a, e, i/y, o, u represent sounds which are quite close to the English vowel sounds in ‘tuck, tech, tick, tock, took’ respectively.
 There’s no difference in sound between i and y, but the spelling affects the pronunciation of preceding d, t, n – see below.
 With acute signs added (á, é, í/ý, ó, ú) these vowels are pronounced with longer duration: roughly like English ‘ah, eh, ee, aw, oo’.</description>

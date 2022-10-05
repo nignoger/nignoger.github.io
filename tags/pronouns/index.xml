@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pronouns on Czech Grammar</title>
-    <link>nignoger.github.io/tags/pronouns/</link>
+    <link>/tags/pronouns/</link>
     <description>Recent content in pronouns on Czech Grammar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="nignoger.github.io/tags/pronouns/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/tags/pronouns/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pronouns</title>
-      <link>nignoger.github.io/pronouns/</link>
+      <link>/pronouns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>nignoger.github.io/pronouns/</guid>
+      <guid>/pronouns/</guid>
       <description>Chapter 12&#34;Pronouns – zájmena&#34; </description>
     </item>
     
