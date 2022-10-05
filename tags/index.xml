@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Czech Grammar</title>
-    <link>/tags/</link>
+    <link>https://nignoger.github.io/tags/</link>
     <description>Recent content in Tags on Czech Grammar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://nignoger.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>adjectives</title>
-      <link>/tags/adjectives/</link>
+      <link>https://nignoger.github.io/tags/adjectives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/adjectives/</guid>
+      <guid>https://nignoger.github.io/tags/adjectives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>czech</title>
-      <link>/tags/czech/</link>
+      <link>https://nignoger.github.io/tags/czech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/czech/</guid>
+      <guid>https://nignoger.github.io/tags/czech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>grammar</title>
-      <link>/tags/grammar/</link>
+      <link>https://nignoger.github.io/tags/grammar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/grammar/</guid>
+      <guid>https://nignoger.github.io/tags/grammar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nouns</title>
-      <link>/tags/nouns/</link>
+      <link>https://nignoger.github.io/tags/nouns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/nouns/</guid>
+      <guid>https://nignoger.github.io/tags/nouns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pronounciation</title>
-      <link>/tags/pronounciation/</link>
+      <link>https://nignoger.github.io/tags/pronounciation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/pronounciation/</guid>
+      <guid>https://nignoger.github.io/tags/pronounciation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pronouns</title>
-      <link>/tags/pronouns/</link>
+      <link>https://nignoger.github.io/tags/pronouns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/pronouns/</guid>
+      <guid>https://nignoger.github.io/tags/pronouns/</guid>
       <description></description>
     </item>
     
